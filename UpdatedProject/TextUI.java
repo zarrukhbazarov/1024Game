@@ -7,6 +7,7 @@ import java.util.Scanner;
  * Created by Hans Dulimarta on Jun 27, 2016.
  * and edited by
  * @author Zarrukh Bazarov
+ * @version January 2022
  *************************************************************************/
 public class TextUI {
     private NumberSlider game;

@@ -11,7 +11,7 @@ import java.util.Stack;
     This class used the NumberSlider Class, and most of the essential code
     is here
     @author Zarrukh Bazarov
-    @version August 2019
+    @version January 2022
  *************************************************************************/
 public class NumberGameArrayList implements NumberSlider {
     private int gameScore = 0;

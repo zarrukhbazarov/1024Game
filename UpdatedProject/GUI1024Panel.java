@@ -7,11 +7,11 @@ import javax.swing.*;
 import javax.swing.border.Border;
 
 /***********************************************************************
- * GUI part of the game 2048
+ * GUI part of the game 1024
  *
  * @author Zarrukh Bazarov
  *
- * @version 1.0 (August 2019)
+ * @version 2.0 (January 2022)
  *
  **********************************************************************/
 public class GUI1024Panel extends JFrame implements KeyListener, ActionListener {

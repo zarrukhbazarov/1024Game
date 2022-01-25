@@ -7,8 +7,8 @@ import java.util.Stack;
 /*******************************************************************
  * This is Number Game Original Class for Game 1024
  *
- * @author Zarrukh Bazarov and
- * @version 1.0 (August 2019)
+ * @author Zarrukh Bazarov
+ * @version January 2022
  *
  *******************************************************************/
 public class NumberGameOriginal implements NumberSlider {
