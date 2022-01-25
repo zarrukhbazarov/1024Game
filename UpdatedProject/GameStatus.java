@@ -1,4 +1,4 @@
-package Project2;
+package UpdatedProject;
 
 /**
  * Created by Hans Dulimarta on Feb 08, 2016.

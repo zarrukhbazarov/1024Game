@@ -1,4 +1,4 @@
-package Project2;
+package UpdatedProject;
 
 //Imports classes used throughout the project
 import java.util.ArrayList;

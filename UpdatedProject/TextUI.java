@@ -1,7 +1,6 @@
-package Project2;
+package UpdatedProject;
 
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 /*************************************************************************
